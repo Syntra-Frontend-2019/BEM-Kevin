@@ -1,17 +1,17 @@
-.u-x1{
+/* .u-x1{
   padding: 15px 25px;
   font-size: 12px;
 }
 
 .u-x2{
-  padding: 20px 40px;
-  font-size: 20px;
-}
+  
+} */
 
 .btn{
   display: inline-block;
   font-family: Helvetica, Arial, 'sans-serif';
-  /* font-size: 14px; */
+  font-size: 14px;
+  padding: .5rem 1rem;
   border-radius: 5px;
   text-decoration: none;
   color: #fff;
@@ -39,4 +39,9 @@
 }
 .btn--danger{
   background-color: red;
+}
+
+.btn--lg{
+  padding: 20px 40px;
+  font-size: 20px;
 }
