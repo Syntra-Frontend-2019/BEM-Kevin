@@ -1,0 +1,42 @@
+.u-x1{
+  padding: 15px 25px;
+  font-size: 12px;
+}
+
+.u-x2{
+  padding: 20px 40px;
+  font-size: 20px;
+}
+
+.btn{
+  display: inline-block;
+  font-family: Helvetica, Arial, 'sans-serif';
+  /* font-size: 14px; */
+  border-radius: 5px;
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid #eee;
+}
+
+.btn--primary{
+  background-color: purple;
+}
+
+.btn--secondary{
+  color: #000;
+  background-color: #fff;
+}
+
+.btn--success{
+  background-color: green;
+}
+
+.btn--info{
+  background-color: #570091;
+}
+.btn--warning{
+  background-color: #ffcc00;
+}
+.btn--danger{
+  background-color: red;
+}
