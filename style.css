@@ -1,6 +1,5 @@
+@import 'base.css';
+@import 'typo.css';
 @import 'button.css';
-
-/* ALGEMEEN */
-div{
-  margin-top: 10px;
-}
+@import 'timeline.css';
+@import 'portlet.css'
